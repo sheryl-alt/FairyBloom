@@ -1,5 +1,5 @@
 # FairyBloom
-Game petualangan yang dikembangkan sebagai proyek kelas PPLG.
+Selamat datang di FairyBloom! Sebuah game petualangan 2D imersif yang dibangun menggunakan Unity Engine. Jelajahi tantangan seru di setiap levelnya dengan mekanisme animasi yang dinamis, integrasi aset audio yang memukau, serta logika gameplay yang dirancang untuk memberikan pengalaman bermain yang utuh dari level 1 hingga level 3.
 
 ## Main Menu
 ![Main Menu](main-menu.png)

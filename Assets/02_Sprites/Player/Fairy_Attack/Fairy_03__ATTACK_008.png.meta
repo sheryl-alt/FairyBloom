@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 7a077770fb38cf54e98f52e856454fbf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4737226194537630449
+    second: Fairy_03__ATTACK_008_0
+  - first:
+      213: 1587242480523415223
+    second: Fairy_03__ATTACK_008_1
+  - first:
+      213: -8554902218738475375
+    second: Fairy_03__ATTACK_008_2
+  - first:
+      213: 9197856439969891483
+    second: Fairy_03__ATTACK_008_3
+  - first:
+      213: -3212461146960134545
+    second: Fairy_03__ATTACK_008_4
+  - first:
+      213: 6797053069672659260
+    second: Fairy_03__ATTACK_008_5
+  - first:
+      213: -3136761324137555628
+    second: Fairy_03__ATTACK_008_6
+  - first:
+      213: -7810613856955959418
+    second: Fairy_03__ATTACK_008_7
+  - first:
+      213: 4506411369022603192
+    second: Fairy_03__ATTACK_008_8
+  - first:
+      213: 6012336905263758552
+    second: Fairy_03__ATTACK_008_9
+  - first:
+      213: 2581261512537682404
+    second: Fairy_03__ATTACK_008_10
+  - first:
+      213: 4180493843681616484
+    second: Fairy_03__ATTACK_008_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fairy_03__ATTACK_008_0
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 148
+        width: 468
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f05b8edffddf14eb0800000000000000
+      internalID: -4737226194537630449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy_03__ATTACK_008_1
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 514
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be020060a4070610800000000000000
+      internalID: 1587242480523415223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy_03__ATTACK_008_2
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 480
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e54e302c1e64980800000000000000
+      internalID: -8554902218738475375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy_03__ATTACK_008_3
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 513
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b94c17723b955af70800000000000000
+      internalID: 9197856439969891483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy_03__ATTACK_008_4
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 428
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e72b07b9b0b63d0800000000000000
+      internalID: -3212461146960134545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy_03__ATTACK_008_5
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 385
+        width: 98
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c39315921cbf35e50800000000000000
+      internalID: 6797053069672659260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy_03__ATTACK_008_6
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 452
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 459d899e13cf774d0800000000000000
+      internalID: -3136761324137555628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy_03__ATTACK_008_7
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 432
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 687756a54102b9390800000000000000
+      internalID: -7810613856955959418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy_03__ATTACK_008_8
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 370
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bfbf5e934df98e30800000000000000
+      internalID: 4506411369022603192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy_03__ATTACK_008_9
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 400
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dcb7348f8c107350800000000000000
+      internalID: 6012336905263758552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy_03__ATTACK_008_10
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 354
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e132376bab72d320800000000000000
+      internalID: 2581261512537682404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fairy_03__ATTACK_008_11
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 357
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 462a95a6009140a30800000000000000
+      internalID: 4180493843681616484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Fairy_03__ATTACK_008_0: -4737226194537630449
+      Fairy_03__ATTACK_008_1: 1587242480523415223
+      Fairy_03__ATTACK_008_10: 2581261512537682404
+      Fairy_03__ATTACK_008_11: 4180493843681616484
+      Fairy_03__ATTACK_008_2: -8554902218738475375
+      Fairy_03__ATTACK_008_3: 9197856439969891483
+      Fairy_03__ATTACK_008_4: -3212461146960134545
+      Fairy_03__ATTACK_008_5: 6797053069672659260
+      Fairy_03__ATTACK_008_6: -3136761324137555628
+      Fairy_03__ATTACK_008_7: -7810613856955959418
+      Fairy_03__ATTACK_008_8: 4506411369022603192
+      Fairy_03__ATTACK_008_9: 6012336905263758552
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
